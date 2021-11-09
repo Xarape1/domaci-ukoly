@@ -1,0 +1,45 @@
+td,
+th {
+    border: 0px solid gray;
+    padding: 10px;
+}
+table {
+    border: 3px solid darkgrey;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 5px;
+    font-family: 'Segoe UI', Tahoma;
+}
+tr:first-child {
+    background-color: rgb(9, 131, 245);
+    padding: 10px;
+    color: white;
+
+}
+.první {
+    background-color: rgb(0, 111, 214);
+}
+.druhý {
+    background-color: rgb(0, 98, 190);
+}
+.třetí {
+    background-color: rgb(0, 86, 167);
+}
+.čtvrtý {
+    background-color: rgb(3, 58, 109);
+}
+tr:nth-child(even) td:nth-child(even) {
+    background-color: rgb(168, 166, 166);
+}
+tr:nth-child(odd) td:nth-child(even) {
+    background-color: rgb(207, 204, 204);
+}
+tr:nth-child(odd) td:nth-child(odd) {
+    background-color: rgb(148, 147, 147);
+}
+tr:nth-child(even) td:nth-child(odd) {
+    background-color: rgb(189, 184, 184);
+}
+button {
+    background-color: gray;
+}

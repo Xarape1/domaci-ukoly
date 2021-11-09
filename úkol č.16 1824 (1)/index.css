@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+.obdelnik {
+    width: 500px;
+    height: 150px;
+    border: 10px solid orange;
+}
+.ctverec {
+    width: 130px;
+    height: 130px;
+    border: 1px solid orange;
+    background-color: orange;
+}
+.ctverec:hover {
+    transform: translate(350px);
+    transition: 5s;
+}
+.ctverec {
+    transition: 2s ease;
+}
+
+
+

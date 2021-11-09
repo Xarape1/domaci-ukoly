@@ -1,0 +1,44 @@
+h3 {
+    color: aqua;
+}
+
+.první {
+    list-style-type: upper-roman;
+}
+.druhý {list-style-type: upper-roman;
+}
+.třetí {
+    list-style-type: upper-roman;
+}
+.čtvrtý {list-style-type: upper-roman;
+}
+.patý {
+    list-style-type: upper-roman;
+}
+.šestý {
+    list-style-type: upper-roman;
+}
+.sedmý {
+    list-style-type: upper-roman;
+}
+.osmý {
+    list-style-type: upper-roman;
+}
+.devatý {
+    list-style-type: upper-roman;
+}
+.desatý {
+    list-style-type: upper-roman;
+}
+.a {
+    list-style-type: lower-latin;
+}
+.b {
+    list-style-type: lower-latin;
+}
+.c {
+    list-style-type: lower-latin;
+}
+.d {
+    list-style-type: lower-latin;
+}

@@ -1,0 +1,50 @@
+.kontainer {
+    width: 60%;
+    height: 60%;
+    margin-left: 50px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(229, 226, 226);
+    align-items: center;
+    text-align: center;
+    align-content: center;
+}
+.Anie {
+    display:inline-flex;
+    justify-content: flex-start;
+    align-items: right;   
+}
+.Jack {
+    display: inline-flex;
+    justify-content: flex-end;
+    flex-direction: row-reverse;
+    align-items: left;
+    
+}
+.jedna {
+    height: 40px;
+    background-color: rgb(243, 176, 198);
+    text-align: center;
+    padding: 19px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 16px 0px 16px 0px;
+    border-radius: 20px 20px 20px 0px;
+}
+.druhý {
+    background-color:rgb(140, 208, 247);
+    text-align: center;
+    margin-left: 298px;
+    padding: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px 20px 0px 20px;
+}
+.ago {
+    color: gray;
+}
+.a {
+   font-weight: bold;
+}
+.j {
+    font-weight: bold;
+}
+
